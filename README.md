@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzGabGit and I just started here. Helo for everyone!
+- 👋 Hi, I’m @AzGabGit and I just started here. Hello for everyone!
 - I really want to get into IT industry, because it could open much more possibilities tomorrow.
 - 👀 I’m interested in html, css, JavaScript, Python and data analytical instruments
 - 🌱 I’m currently learning how to make Web Apps at University and I try to make my work better by PC using and autamatization learning 
