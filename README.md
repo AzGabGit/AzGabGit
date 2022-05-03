@@ -2,7 +2,7 @@
 - I really want to get into IT industry, because it could open much more possibilities tomorrow.
 - 👀 I’m interested in html, css, JavaScript, Python and data analytical instruments
 - 🌱 I’m currently learning how to make Web Apps at University and I try to make my work better by PC using and autamatization learning 
-- I'm Oil engineer with falling in love with economics, investments and IT of course.
+- I'm petroleum engineer with falling in love with economics, investments and IT of course.
 - Success for everyone and let's be better together.
 
 <!---
